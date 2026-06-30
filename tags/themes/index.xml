@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Themes on Hugo 主題 Stack</title>
+        <title>Themes on TingYu&#39;s Blog</title>
         <link>https://cindy-1003.github.io/tags/themes/</link>
-        <description>Recent content in Themes on Hugo 主題 Stack</description>
+        <description>Recent content in Themes on TingYu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-hant-tw</language>
-        <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cindy-1003.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cindy-1003.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>第一篇文章</title>
+            <link>https://cindy-1003.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://cindy-1003.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <description>&lt;p&gt;這是一個用 github + hugo 做的個人網站&#xA;(第一篇文長這樣會不會有億點太隨便)&lt;/p&gt;&#xA;</description>
+        </item><item>
             <title>Markdown Syntax Guide</title>
             <link>https://cindy-1003.github.io/p/markdown-syntax-guide/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>

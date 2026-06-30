@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Hugo 主題 Stack</title>
+        <title>Categories on TingYu&#39;s Blog</title>
         <link>https://cindy-1003.github.io/categories/</link>
-        <description>Recent content in Categories on Hugo 主題 Stack</description>
+        <description>Recent content in Categories on TingYu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-hant-tw</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cindy-1003.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cindy-1003.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>文檔</title>
             <link>https://cindy-1003.github.io/categories/documentation/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
             <guid>https://cindy-1003.github.io/categories/documentation/</guid>
             <description>&lt;img src=&#34;https://cindy-1003.github.io/categories/documentation/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg&#34; alt=&#34;Featured image of post 文檔&#34; /&gt;</description>
         </item><item>
@@ -22,12 +22,6 @@
             <link>https://cindy-1003.github.io/categories/themes/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
             <guid>https://cindy-1003.github.io/categories/themes/</guid>
-            <description></description>
-        </item><item>
-            <title>Testing</title>
-            <link>https://cindy-1003.github.io/categories/testing/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/categories/testing/</guid>
             <description></description>
         </item></channel>
 </rss>

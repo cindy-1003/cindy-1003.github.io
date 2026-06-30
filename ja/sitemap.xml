@@ -48,24 +48,6 @@
                 href="https://cindy-1003.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>https://cindy-1003.github.io/ja/tags/gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cindy-1003.github.io/zh/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://cindy-1003.github.io/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cindy-1003.github.io/ja/tags/gallery/"
-                />
-  </url><url>
     <loc>https://cindy-1003.github.io/ja/page/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -82,24 +64,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://cindy-1003.github.io/ja/page/"
-                />
-  </url><url>
-    <loc>https://cindy-1003.github.io/ja/tags/photoswipe/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cindy-1003.github.io/zh/tags/photoswipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://cindy-1003.github.io/tags/photoswipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cindy-1003.github.io/ja/tags/photoswipe/"
                 />
   </url><url>
     <loc>https://cindy-1003.github.io/ja/post/</loc>
@@ -213,24 +177,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://cindy-1003.github.io/ja/tags/%E9%9A%90%E7%A7%81/"
-                />
-  </url><url>
-    <loc>https://cindy-1003.github.io/ja/p/image-gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cindy-1003.github.io/zh/p/image-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://cindy-1003.github.io/p/image-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cindy-1003.github.io/ja/p/image-gallery/"
                 />
   </url><url>
     <loc>https://cindy-1003.github.io/ja/archives/</loc>

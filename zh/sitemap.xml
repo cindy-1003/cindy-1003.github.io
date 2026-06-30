@@ -48,24 +48,6 @@
                 href="https://cindy-1003.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>https://cindy-1003.github.io/zh/tags/gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cindy-1003.github.io/zh/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://cindy-1003.github.io/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cindy-1003.github.io/ja/tags/gallery/"
-                />
-  </url><url>
     <loc>https://cindy-1003.github.io/zh/page/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -82,24 +64,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://cindy-1003.github.io/ja/page/"
-                />
-  </url><url>
-    <loc>https://cindy-1003.github.io/zh/tags/photoswipe/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cindy-1003.github.io/zh/tags/photoswipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://cindy-1003.github.io/tags/photoswipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cindy-1003.github.io/ja/tags/photoswipe/"
                 />
   </url><url>
     <loc>https://cindy-1003.github.io/zh/post/</loc>
@@ -197,24 +161,6 @@
                 href="https://cindy-1003.github.io/ja/categories/documentation/"
                 />
   </url><url>
-    <loc>https://cindy-1003.github.io/zh/p/image-gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cindy-1003.github.io/zh/p/image-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://cindy-1003.github.io/p/image-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cindy-1003.github.io/ja/p/image-gallery/"
-                />
-  </url><url>
     <loc>https://cindy-1003.github.io/zh/tags/%E9%9A%90%E7%A7%81/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -270,6 +216,19 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="https://cindy-1003.github.io/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://cindy-1003.github.io/zh/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cindy-1003.github.io/zh/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://cindy-1003.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"
                 />
   </url><url>
     <loc>https://cindy-1003.github.io/zh/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</loc>

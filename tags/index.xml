@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Hugo 主題 Stack</title>
+        <title>Tags on TingYu&#39;s Blog</title>
         <link>https://cindy-1003.github.io/tags/</link>
-        <description>Recent content in Tags on Hugo 主題 Stack</description>
+        <description>Recent content in Tags on TingYu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-hant-tw</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cindy-1003.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Gallery</title>
-            <link>https://cindy-1003.github.io/tags/gallery/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/gallery/</guid>
+        <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cindy-1003.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Css</title>
+            <link>https://cindy-1003.github.io/tags/css/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://cindy-1003.github.io/tags/css/</guid>
             <description></description>
         </item><item>
-            <title>Photoswipe</title>
-            <link>https://cindy-1003.github.io/tags/photoswipe/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/photoswipe/</guid>
+            <title>Html</title>
+            <link>https://cindy-1003.github.io/tags/html/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://cindy-1003.github.io/tags/html/</guid>
+            <description></description>
+        </item><item>
+            <title>Markdown</title>
+            <link>https://cindy-1003.github.io/tags/markdown/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://cindy-1003.github.io/tags/markdown/</guid>
+            <description></description>
+        </item><item>
+            <title>Themes</title>
+            <link>https://cindy-1003.github.io/tags/themes/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>https://cindy-1003.github.io/tags/themes/</guid>
             <description></description>
         </item><item>
             <title>隐私</title>
             <link>https://cindy-1003.github.io/tags/%E9%9A%90%E7%A7%81/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
             <guid>https://cindy-1003.github.io/tags/%E9%9A%90%E7%A7%81/</guid>
-            <description></description>
-        </item><item>
-            <title>Css</title>
-            <link>https://cindy-1003.github.io/tags/css/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/css/</guid>
-            <description></description>
-        </item><item>
-            <title>Html</title>
-            <link>https://cindy-1003.github.io/tags/html/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/html/</guid>
-            <description></description>
-        </item><item>
-            <title>Markdown</title>
-            <link>https://cindy-1003.github.io/tags/markdown/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/markdown/</guid>
-            <description></description>
-        </item><item>
-            <title>Themes</title>
-            <link>https://cindy-1003.github.io/tags/themes/</link>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/themes/</guid>
             <description></description>
         </item><item>
             <title>Diagrams</title>
@@ -58,18 +46,6 @@
             <link>https://cindy-1003.github.io/tags/mermaid/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
             <guid>https://cindy-1003.github.io/tags/mermaid/</guid>
-            <description></description>
-        </item><item>
-            <title>Pagination</title>
-            <link>https://cindy-1003.github.io/tags/pagination/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/pagination/</guid>
-            <description></description>
-        </item><item>
-            <title>Test</title>
-            <link>https://cindy-1003.github.io/tags/test/</link>
-            <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>https://cindy-1003.github.io/tags/test/</guid>
             <description></description>
         </item></channel>
 </rss>
